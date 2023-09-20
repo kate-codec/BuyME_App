@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+    android-versionCode = '1'
+    id = 'com.andriod.BuyME'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>BuyME</name>
+    <description>E-Commerce app</description>
+    <author>Ugochi</author>
+
+    <preference name = 'orientation' value = 'portrait'/>
+
+</widget>
