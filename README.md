@@ -74,7 +74,7 @@ BuyMe incorporates powerful backend technologies to support its functionalities.
 * [![JavaScript][Next.js]][Next-url]
 * [![React][HTML]][React-url]
 * [![Vue][CSS]][Vue-url]
-* [![AndriodStudio][Android-URL]
+* AndriodStudio
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. 
+1. ![APKFile](https://github.com/kate-codec/BuyME_App/blob/main/BuyME.debug.v1.0.0.apk)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
